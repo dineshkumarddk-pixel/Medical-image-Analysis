@@ -18,7 +18,6 @@ The notebook (`TumorDetection_TRAIN.ipynb`) covers data loading, preprocessing, 
 - Transfer Learning using pretrained **VGG16** (ImageNet weights)  
 - Custom dataset integration  
 - Data augmentation for robustness  
-- Confusion matrix and performance plots  
 - Easily adaptable to new medical datasets
 
 ---
